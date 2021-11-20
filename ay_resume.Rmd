@@ -1,0 +1,48 @@
+---
+title: "Anthony Yoskovich"
+output: 
+  prettydoc::html_pretty:
+    theme: architect
+---
+
+Here is a sentence about me.
+
+****
+
+### Experience
+
+
+#### Data Analyst - Accountability (National Heritage Academies)
+- I did this thing.
+- I did this thing.
+- I did this thing.
+
+#### Optimization Consultant (Betting Hero)
+- I did this thing.
+- I did this thing.
+
+#### Advanced Analytics Intern (Steelcase)
+- I did this thing.
+- I did this thing.
+
+****
+
+### Personal Projects
+- I did this thing.
+- I did this thing.
+
+****
+
+### Education
+- I did this thing.
+- I did this thing.
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+** This document was created entirely in R using R Markdown. Source code can be found [here](https://github.com/ayoskovich).

@@ -12,10 +12,11 @@ Analytics practitioner with experience solving problems using data and visualizi
 ## Experience
 
 #### Data Analyst - Accountability (National Heritage Academies)
-- Developed a risk adjusted linear model in `R` to classify attendance rates of more than 50,000 schools and hosted the results on a company instance of `Tableau Server`.
-- Automated the conversion of over 1,000 pdf files into tabular format saving more than 80 hours of manual work each year using the `Tesseract OCR engine` in `R`.
-- Modeled an estimated test participation rate across the entire state of MI using enrollment data.
-- Summarized and visualized complex results of major testing events at more than 50 schools using `ggplot2` 
+- Developed a risk adjusted linear model in `R` to classify attendance rates of more than 50,000 schools and hosted the results on a company-wide instance of `Tableau Server`.
+- Saved more than 80 hours of manual work each year by automating the conversion of over 1,000 pdf files into a tabular format using the `Tesseract` OCR engine in `R`.
+- Identified and communicated data quality anomalies in the data warehouse using `Python` and `SQL`.
+- Generated estimates of state test participation rates across the state of MI using alternative data.
+- Summarized and visualized complex results of major testing events at more than 50 schools using `ggplot2`.
 - Consulted with educational leaders to analyze academic data and plan action steps.
 
 
@@ -28,10 +29,10 @@ Analytics practitioner with experience solving problems using data and visualizi
 ****
 
 ## Personal Projects
-- Created and deployed an `R Shiny` application to investigate test scores in Michigan.
-- Developed and deployed an interactive cost saving dashboard using `Python`, `Heroku`, and `Bokeh`.
-- Created a `Python` script to log my internet speed and analyzed 800,000 data-points with `pandas` and `seaborn` to investigate variability.
-- Built a Raspberry Pi data logger with `python` and `cron` to archive the price of bitcoin every 40 seconds using the Kraken api.
+- [here](https://anthonyyoskovich.com/) I occasionally blog and tinker around on my personal website built with `R Markdown`.
+- [here](https://amisaving.herokuapp.com/myapp) Developed and deployed an interactive cost saving dashboard using `Python`, `Heroku`, and `Bokeh`.
+- [here](https://anthonyyoskovich.com/project/internet-traffic/) Created a `Python` script to log my internet speed and analyzed 800,000 data-points with `pandas` and `seaborn` to investigate variability.
+- [here](https://www.youtube.com/watch?v=KQN2H1IuiuM&t=2s) Built a Raspberry Pi data logger with `python` and `cron` to archive the price of `Bitcoin` every 40 seconds using the `Cryptowatch` api.
 
 ****
 

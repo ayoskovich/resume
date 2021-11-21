@@ -1,48 +1,45 @@
 ---
 title: "Anthony Yoskovich"
-output: 
-  prettydoc::html_pretty:
-    theme: architect
 ---
 
-Here is a sentence about me.
+Driven analytics practitioner with thousands of hours of practical experience solving problems using data.
 
 ****
 
-### Experience
-
+## Experience
 
 #### Data Analyst - Accountability (National Heritage Academies)
-- I did this thing.
-- I did this thing.
-- I did this thing.
+- Estimated the relationship between two assessments in order to assist in goal setting.
+- Developed a risk adjusted linear model to classify attendance rates of more than 50,000 public schools and deployed the analysis using `Tableau Server`.
+- Automated the conversion of over 1,000 pdf files into excel using the `Tesseract OCR engine` in `R`.
+- Produced elegant visualizations and commentary of student assessment results and shared with the entire organization.
+- Consulted with School Quality and the Curriculum and Instruction team to perform root cause analysis.
 
-#### Optimization Consultant (Betting Hero)
-- I did this thing.
-- I did this thing.
 
 #### Advanced Analytics Intern (Steelcase)
-- I did this thing.
-- I did this thing.
+- Delivered data driven hiring and relocation insights by modeling $60 million worth of incremental sales.
+- Investigated and presented share of wallet variability using `Rshiny` to inform strategic sales tactics.
+- Worked on a cross-functional team to deploy a floor space optimization tool and recommender system.
+- Used `Python`, `R`, `Tableau`, and `SAS` to clean, merge, analyze, and summarize over 50 million rows of data
 
 ****
 
-### Personal Projects
-- I did this thing.
-- I did this thing.
+## Personal Projects
+- Developed and deployed an interactive cost saving dashboard using `Python`, `Heroku`, and `Bokeh`.
+- Created a script to log my internet speed and analyzed 800,000 data-points to investigate variability.
+- Built a Raspberry Pi data logger to archive the price of bitcoin every 40 seconds using the Kraken api.
 
 ****
 
-### Education
-- I did this thing.
-- I did this thing.
+## Education
+- Bachelor of Science in Statistics & Economics (3.7 / 4.0)
+- Minor in Mathematics
+- Grand Valley State University
 
 
 <br>
 <br>
 <br>
 <br>
-<br>
-<br>
 
-** This document was created entirely in R using R Markdown. Source code can be found [here](https://github.com/ayoskovich).
+** This document was created entirely using R Markdown. Source code can be found [here](https://github.com/ayoskovich).

@@ -9,7 +9,7 @@ Analytics practitioner with experience solving problems using data and visualizi
 
 ****
 
-## Experience
+## `r icons::fontawesome("file-alt", style = "solid")` Experience
 
 #### Data Analyst - Accountability (National Heritage Academies)
 - Developed a risk adjusted linear model in `R` to classify attendance rates of more than 50,000 schools and hosted the results on a company-wide instance of `Tableau Server`.
@@ -28,7 +28,7 @@ Analytics practitioner with experience solving problems using data and visualizi
 
 ****
 
-## Personal Projects
+## `r icons::fontawesome("flask", style = "solid")` Personal Projects
 - [here](https://anthonyyoskovich.com/) I occasionally blog and tinker around on my personal website built with `R Markdown`.
 - [here](https://amisaving.herokuapp.com/myapp) Developed and deployed an interactive cost saving dashboard using `Python`, `Heroku`, and `Bokeh`.
 - [here](https://anthonyyoskovich.com/project/internet-traffic/) Created a `Python` script to log my internet speed and analyzed 800,000 data-points with `pandas` and `seaborn` to investigate variability.
@@ -36,7 +36,7 @@ Analytics practitioner with experience solving problems using data and visualizi
 
 ****
 
-## Education
+## `r icons::fontawesome("university", style = "solid")` Education
 - Grand Valley State University (April 2020)
 - Bachelor of Science in Statistics & Economics (3.7 / 4.0)
 - Minor in Mathematics

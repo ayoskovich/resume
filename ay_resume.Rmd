@@ -1,40 +1,44 @@
 ---
 title: "Anthony Yoskovich"
+output: 
+  html_document: 
+    theme: readable
 ---
 
-Driven analytics practitioner with thousands of hours of practical experience solving problems using data.
+Analytics practitioner with experience solving problems using data and visualizing quantitative information.
 
 ****
 
 ## Experience
 
 #### Data Analyst - Accountability (National Heritage Academies)
-- Estimated the relationship between two assessments in order to assist in goal setting.
-- Developed a risk adjusted linear model to classify attendance rates of more than 50,000 public schools and deployed the analysis using `Tableau Server`.
-- Automated the conversion of over 1,000 pdf files into excel using the `Tesseract OCR engine` in `R`.
-- Produced elegant visualizations and commentary of student assessment results and shared with the entire organization.
-- Consulted with School Quality and the Curriculum and Instruction team to perform root cause analysis.
+- Developed a risk adjusted linear model in `R` to classify attendance rates of more than 50,000 schools and hosted the results on a company instance of `Tableau Server`.
+- Automated the conversion of over 1,000 pdf files into tabular format saving more than 80 hours of manual work each year using the `Tesseract OCR engine` in `R`.
+- Modeled an estimated test participation rate across the entire state of MI using enrollment data.
+- Summarized and visualized complex results of major testing events at more than 50 schools using `ggplot2` 
+- Consulted with educational leaders to analyze academic data and plan action steps.
 
 
 #### Advanced Analytics Intern (Steelcase)
 - Delivered data driven hiring and relocation insights by modeling $60 million worth of incremental sales.
-- Investigated and presented share of wallet variability using `Rshiny` to inform strategic sales tactics.
-- Worked on a cross-functional team to deploy a floor space optimization tool and recommender system.
+- Investigated and presented share of wallet variability using `R Shiny` to inform strategic sales tactics.
+- Worked on a cross-functional team to deploy a floor space optimization tool and recommender system (`spectral clustering`).
 - Used `Python`, `R`, `Tableau`, and `SAS` to clean, merge, analyze, and summarize over 50 million rows of data
 
 ****
 
 ## Personal Projects
+- Created and deployed an `R Shiny` application to investigate test scores in Michigan.
 - Developed and deployed an interactive cost saving dashboard using `Python`, `Heroku`, and `Bokeh`.
-- Created a script to log my internet speed and analyzed 800,000 data-points to investigate variability.
-- Built a Raspberry Pi data logger to archive the price of bitcoin every 40 seconds using the Kraken api.
+- Created a `Python` script to log my internet speed and analyzed 800,000 data-points with `pandas` and `seaborn` to investigate variability.
+- Built a Raspberry Pi data logger with `python` and `cron` to archive the price of bitcoin every 40 seconds using the Kraken api.
 
 ****
 
 ## Education
+- Grand Valley State University (April 2020)
 - Bachelor of Science in Statistics & Economics (3.7 / 4.0)
 - Minor in Mathematics
-- Grand Valley State University
 
 
 <br>
@@ -42,4 +46,4 @@ Driven analytics practitioner with thousands of hours of practical experience so
 <br>
 <br>
 
-** This document was created entirely using R Markdown. Source code can be found [here](https://github.com/ayoskovich).
+* This document was created entirely using R Markdown. Source code can be found on [`github`](https://github.com/ayoskovich).

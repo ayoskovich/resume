@@ -12,12 +12,14 @@ Analytics practitioner with experience solving problems using data and visualizi
 ## `r icons::fontawesome("file-alt", style = "solid")` Experience
 
 #### Data Analyst - Accountability (National Heritage Academies)
-- Developed a risk adjusted linear model in `R` to classify attendance rates of more than 50,000 schools and hosted the results on a company-wide instance of `Tableau Server`.
-- Saved more than 80 hours of manual work each year by automating the conversion of over 1,000 pdf files into a tabular format using the `Tesseract` OCR engine in `R`.
-- Identified and communicated data quality anomalies in the data warehouse using `Python` and `SQL`.
-- Generated estimates of state test participation rates across the state of MI using alternative data.
+- Developed a risk adjusted linear model in `R` to classify attendance rates of more than 50,000 schools.
+  - Hosted the results on a company-wide instance of `Tableau Server`.
+- Consulted with SMEs to leverage data in order to prioritize and brainstorm curriculum and instruction action steps.
+  - Facilitated semi-weekly discussions of student academic trends, relationships, and anamolies.
+- Automated the conversion of over 1,000 pdf files into a tabular format using the `Tesseract` OCR engine in `R`.
+  - Saved more than 80 hours of manual work each year.
+- Identified and communicated data quality anomalies in the data warehouse using `Python`, `R`, and `SQL`.
 - Summarized and visualized complex results of major testing events at more than 50 schools using `ggplot2`.
-- Consulted with educational leaders to analyze academic data and plan action steps.
 
 
 #### Advanced Analytics Intern (Steelcase)
@@ -29,10 +31,11 @@ Analytics practitioner with experience solving problems using data and visualizi
 ****
 
 ## `r icons::fontawesome("flask", style = "solid")` Personal Projects
-- [here](https://anthonyyoskovich.com/) I occasionally blog and tinker around on my personal website built with `R Markdown`.
-- [here](https://amisaving.herokuapp.com/myapp) Developed and deployed an interactive cost saving dashboard using `Python`, `Heroku`, and `Bokeh`.
-- [here](https://anthonyyoskovich.com/project/internet-traffic/) Created a `Python` script to log my internet speed and analyzed 800,000 data-points with `pandas` and `seaborn` to investigate variability.
-- [here](https://www.youtube.com/watch?v=KQN2H1IuiuM&t=2s) Built a Raspberry Pi data logger with `python` and `cron` to archive the price of `Bitcoin` every 40 seconds using the `Cryptowatch` api.
+- [`r icons::fontawesome("link", style="solid")`](https://anthonyyoskovich.com/) I occasionally blog and tinker around on my personal website built with `R Markdown` and hosted on `Netlify`.
+- [`r icons::fontawesome("link", style="solid")`](https://amisaving.herokuapp.com/myapp) Developed and deployed an interactive cost saving dashboard using `Python`, `Heroku`, and `Bokeh`.
+- [`r icons::fontawesome("link", style="solid")`](https://anthonyyoskovich.com/project/internet-traffic/) Created a `Python` script to log my internet speed and analyzed 800,000 data-points with `pandas` and `seaborn`.
+- [`r icons::fontawesome("link", style="solid")`](https://www.youtube.com/watch?v=KQN2H1IuiuM&t=2s) Built a Raspberry Pi data logger with `python` to archive the price of `Bitcoin` using the `Cryptowatch` api.
+
 
 ****
 
@@ -47,4 +50,4 @@ Analytics practitioner with experience solving problems using data and visualizi
 <br>
 <br>
 
-* This document was created entirely using R Markdown. Source code can be found on [`github`](https://github.com/ayoskovich).
+<sup>*</sup> This document was created entirely using R Markdown. Source code can be found on [`github`](https://github.com/ayoskovich).

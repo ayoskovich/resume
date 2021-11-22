@@ -5,6 +5,11 @@ output:
     theme: readable
 ---
 
+```{r, echo=F, include=F}
+# To render this document, use:
+# rmarkdown::render('ay_resume.Rmd', output_file = 'index.html')
+```
+
 Analytics practitioner with experience solving problems using data and visualizing quantitative information.
 
 ****
@@ -50,4 +55,4 @@ Analytics practitioner with experience solving problems using data and visualizi
 <br>
 <br>
 
-<sup>*</sup> This document was created entirely using R Markdown. Source code can be found on [`github`](https://github.com/ayoskovich).
+<sup>*</sup> This document was created entirely using R Markdown. Source code can be found on [`github`](https://github.com/ayoskovich/resume).

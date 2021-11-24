@@ -23,37 +23,41 @@ Analytics practitioner with experience solving problems using data and visualizi
 ## `r ico("file-alt")` Experience
 
 #### Data Analyst - Accountability (National Heritage Academies)
-- Developed a risk adjusted linear model in `R` to classify attendance rates of more than 50,000 schools.
+- Developed a risk-adjusted linear model in `R` to classify attendance rates of more than 50,000 schools.
   - Hosted the results on a company-wide instance of `Tableau Server`.
 - Consulted with SMEs to leverage data in order to prioritize and inform classroom instruction.
   - Facilitated semi-weekly discussions of student academic trends, relationships, and anomalies.
-- Automated the conversion of over 1,000 pdf files into a tabular format using the `Tesseract` OCR engine in `R`.
+- Automated the conversion of over 1,000 PDF files into a tabular format using the `Tesseract` OCR engine in `R`.
   - Saved more than 80 hours of manual work each year.
-- Identified and ensured data quality anomalies in the data warehouse using `Python`, `R`, and `SQL`.
-- Ensured data accuracy in the data warehouse using `Python`, `R`, and `SQL`.
+- Verified data integrity of more than 4 million records in the data warehouse using `Python`, `R`, and `SQL`.
 - Regularly summarized and visualized complex results of major testing events at more than 50 schools using `ggplot2`.
 
+#### Optimization Consultant (Betting Hero)
+- Built a live dashboard in Google Sheets to track mission critical KPIs across 24 events in 4 states.
+- Automated a scheduling application using `Google Apps Script` to save 10 hrs of manual work per week.
+- Used the `Google Sheets API` and `Python` to streamline recruitment efforts of over 400 employees.
+
 #### Advanced Analytics Intern (Steelcase)
-- Delivered data driven hiring and relocation insights by modeling $60 million worth of incremental sales.
+- Delivered data-driven hiring and relocation insights by modeling $60 million worth of incremental sales.
 - Investigated and presented share of wallet variability using `R Shiny` to inform strategic sales tactics.
-- Worked on a cross-functional team to deploy a floor space optimization tool and recommender system (`spectral clustering`).
+- Worked on a cross-functional team to deploy a floor space optimization tool and recommender system.
 - Used `Python`, `R`, `Tableau`, and `SAS` to clean, merge, analyze, and summarize over 50 million rows of data
 
 ****
 
 ## `r ico("flask")` Personal Projects
-- [`r ico("link")`](https://anthonyyoskovich.com/) I occasionally blog and tinker around on my personal website built with `R Markdown` and hosted on `Netlify`.
+- [`r ico("link")`](https://anthonyyoskovich.com/) I occasionally blog and tinker around on my website built with `R Markdown` and hosted on `Netlify`.
 - [`r ico("link")`](https://amisaving.herokuapp.com/myapp) Developed and deployed an interactive cost saving dashboard using `Python`, `Heroku`, and `Bokeh`.
 - [`r ico("link")`](https://anthonyyoskovich.com/project/internet-traffic/) Created a `Python` script to log my internet speed and analyzed 800,000 data-points with `pandas` and `seaborn`.
-- [`r ico("link")`](https://www.youtube.com/watch?v=KQN2H1IuiuM&t=2s) Built a Raspberry Pi data logger with `python` to archive the price of `Bitcoin` using the `Cryptowatch` api.
+- [`r ico("link")`](https://www.youtube.com/watch?v=KQN2H1IuiuM&t=2s) Built a Raspberry Pi data logger with `python` to archive the price of `Bitcoin` using the `Cryptowatch` API.
 
 ****
 
 ## `r ico("clipboard-list")` Technologies
-- `R`: tidyverse, janitor, leaflet
-- Regression, probability distributions, outliers
+- `R`: R Markdown, tidyverse, janitor, leaflet
 - `Python`: pandas, sklearn, seaborn
 - `SQL`
+- `Tableau`
 - `git`, `vim`, `cron`, `tmux`
 - `Azure DevOps`, `Asana`, `GitHub`
 - `Netlify`, `Heroku`, `shinyapps.io`
@@ -61,9 +65,11 @@ Analytics practitioner with experience solving problems using data and visualizi
 ****
 
 ## `r ico("university")` Education
-- Grand Valley State University (April 2020)
+#### Grand Valley State University (April 2020)
 - Bachelor of Science in Statistics & Economics (3.7 / 4.0)
 - Minor in Mathematics
+- Recipient of the Statistics Scholarship (Winter 2020)
+- Dean's List every semester
 
 <br>
 <br>

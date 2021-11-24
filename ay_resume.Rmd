@@ -25,13 +25,13 @@ Analytics practitioner with experience solving problems using data and visualizi
 #### Data Analyst - Accountability (National Heritage Academies)
 - Developed a risk adjusted linear model in `R` to classify attendance rates of more than 50,000 schools.
   - Hosted the results on a company-wide instance of `Tableau Server`.
-- Consulted with SMEs to leverage data in order to prioritize and brainstorm curriculum and instruction action steps.
-  - Facilitated semi-weekly discussions of student academic trends, relationships, and anamolies.
+- Consulted with SMEs to leverage data in order to prioritize and inform classroom instruction.
+  - Facilitated semi-weekly discussions of student academic trends, relationships, and anomalies.
 - Automated the conversion of over 1,000 pdf files into a tabular format using the `Tesseract` OCR engine in `R`.
   - Saved more than 80 hours of manual work each year.
-- Identified and communicated data quality anomalies in the data warehouse using `Python`, `R`, and `SQL`.
-- Summarized and visualized complex results of major testing events at more than 50 schools using `ggplot2`.
-
+- Identified and ensured data quality anomalies in the data warehouse using `Python`, `R`, and `SQL`.
+- Ensured data accuracy in the data warehouse using `Python`, `R`, and `SQL`.
+- Regularly summarized and visualized complex results of major testing events at more than 50 schools using `ggplot2`.
 
 #### Advanced Analytics Intern (Steelcase)
 - Delivered data driven hiring and relocation insights by modeling $60 million worth of incremental sales.
@@ -49,11 +49,21 @@ Analytics practitioner with experience solving problems using data and visualizi
 
 ****
 
+## `r ico("clipboard-list")` Technologies
+- `R`: tidyverse, janitor, leaflet
+- Regression, probability distributions, outliers
+- `Python`: pandas, sklearn, seaborn
+- `SQL`
+- `git`, `vim`, `cron`, `tmux`
+- `Azure DevOps`, `Asana`, `GitHub`
+- `Netlify`, `Heroku`, `shinyapps.io`
+
+****
+
 ## `r ico("university")` Education
 - Grand Valley State University (April 2020)
 - Bachelor of Science in Statistics & Economics (3.7 / 4.0)
 - Minor in Mathematics
-
 
 <br>
 <br>

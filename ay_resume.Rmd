@@ -5,17 +5,6 @@ output:
     theme: readable
 ---
 
-```{r, echo=F, include=F}
-# remotes::install_github("mitchelloharawild/icons")
-rdoc <- function(){
-  rmarkdown::render('ay_resume.Rmd', output_file = 'index.html')
-}
-
-ico <- function(name){
-  icons::fontawesome(name, style="solid")
-}
-```
-
 Analytics practitioner with experience solving problems using data and visualizing quantitative information.
 
 ****

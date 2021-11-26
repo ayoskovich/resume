@@ -37,7 +37,7 @@ Analytics practitioner with experience solving problems using data and visualizi
 - Delivered data-driven hiring and relocation insights by modeling $60 million worth of incremental sales.
 - Investigated and presented share of wallet variability using `R Shiny` to inform strategic sales tactics.
 - Worked on a cross-functional team to deploy a floor space optimization tool and recommender system.
-- Used `Python`, `R`, `Tableau`, and `SAS` to clean, merge, analyze, and summarize over 50 million rows of data
+- Used `Python`, `R`, `Tableau`, and `SAS` to clean, merge, analyze, and summarize over 50 million rows of data.
 
 ****
 

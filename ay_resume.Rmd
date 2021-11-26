@@ -7,6 +7,8 @@ output:
 
 Analytics practitioner with experience solving problems using data and visualizing quantitative information.
 
+ [`r ico("github", NULL)` github](https://github.com/ayoskovich), [`r ico("globe-americas")` personal site](https://anthonyyoskovich.com/), `r ico("envelope")` `r 'anthony.yoskovich@gmail.com'`
+
 ****
 
 ## `r ico("file-alt")` Experience
@@ -15,11 +17,11 @@ Analytics practitioner with experience solving problems using data and visualizi
 - Developed a risk-adjusted linear model in `R` to classify attendance rates of more than 50,000 schools.
   - Hosted the results on a company-wide instance of `Tableau Server`.
 - Consulted with SMEs to leverage data in order to prioritize and inform classroom instruction.
-  - Facilitated semi-weekly discussions of student academic trends, relationships, and anomalies.
+  - Facilitated semi-weekly discussions of student academic trends and relationships.
 - Automated the conversion of over 1,000 PDF files into a tabular format using the `Tesseract` OCR engine in `R`.
   - Saved more than 80 hours of manual work each year.
-- Verified data integrity of more than 4 million records in the data warehouse using `Python`, `R`, and `SQL`.
-- Regularly summarized and visualized complex results of major testing events at more than 50 schools using `ggplot2`.
+- Verified data integrity of more than 15 million records in the data warehouse using `Python`, `R`, and `SQL`.
+- Regularly analyzed and visualized complex testing results of 4 subjects at more than 50 schools using `ggplot2`.
 
 #### Optimization Consultant (Betting Hero)
 - Built a live dashboard in Google Sheets to track mission critical KPIs across 24 events in 4 states.
@@ -35,19 +37,18 @@ Analytics practitioner with experience solving problems using data and visualizi
 ****
 
 ## `r ico("flask")` Personal Projects
-- [`r ico("link")`](https://anthonyyoskovich.com/) I occasionally blog and tinker around on my website built with `R Markdown` and hosted on `Netlify`.
+- [`r ico("link")`](https://anthonyyoskovich.com/) Occasional blogging and tinkering around on my website built with `R Markdown` and hosted on `Netlify`.
 - [`r ico("link")`](https://amisaving.herokuapp.com/myapp) Developed and deployed an interactive cost saving dashboard using `Python`, `Heroku`, and `Bokeh`.
 - [`r ico("link")`](https://anthonyyoskovich.com/project/internet-traffic/) Created a `Python` script to log my internet speed and analyzed 800,000 data-points with `pandas` and `seaborn`.
-- [`r ico("link")`](https://www.youtube.com/watch?v=KQN2H1IuiuM&t=2s) Built a Raspberry Pi data logger with `python` to archive the price of `Bitcoin` using the `Cryptowatch` API.
+- [`r ico("link")`](https://www.youtube.com/watch?v=KQN2H1IuiuM&t=2s) Built a Raspberry Pi data logger with `Python` to archive the price of `Bitcoin` using the `Cryptowatch` API.
 
 ****
 
 ## `r ico("clipboard-list")` Technologies
-- `R`: R Markdown, tidyverse, janitor, leaflet
-- `Python`: pandas, sklearn, seaborn
-- `SQL`
-- `Tableau`
-- `git`, `vim`, `cron`, `tmux`
+- **`R`**, `R Markdown`, `tidyverse`, `janitor`, `leaflet`
+- **`Python`**, `pandas`, `sklearn`, `seaborn`
+- `Tableau`, `Tableau Server`
+- `SQL`, `git`, `vim`, `cron`, `tmux`
 - `Azure DevOps`, `Asana`, `GitHub`
 - `Netlify`, `Heroku`, `shinyapps.io`
 
@@ -57,12 +58,8 @@ Analytics practitioner with experience solving problems using data and visualizi
 #### Grand Valley State University (April 2020)
 - Bachelor of Science in Statistics & Economics (3.7 / 4.0)
 - Minor in Mathematics
-- Recipient of the Statistics Scholarship (Winter 2020)
 - Dean's List every semester
 
-<br>
-<br>
-<br>
 <br>
 
 <sup>*</sup> This document was created entirely using R Markdown. Source code can be found on [`github`](https://github.com/ayoskovich/resume).

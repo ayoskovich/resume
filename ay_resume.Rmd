@@ -3,6 +3,7 @@ title: "Anthony Yoskovich"
 output: 
   html_document: 
     theme: readable
+    css: "style.css"
 ---
 
 Analytics practitioner with experience solving problems using data and visualizing quantitative information.
@@ -14,9 +15,9 @@ Analytics practitioner with experience solving problems using data and visualizi
 ## `r ico("file-alt")` Experience
 
 <!-- Hackin my way downtown... -->
-<h4 style="float: left">Data Analyst (National Heritage Academies)</h4> <h4 style="float: right; position: inline">March 2021 - Present</h4>
+<h4 class="work_title">Data Analyst <span class="work_company"> - National Heritage Academies</span></h4> <h4 class="work_dates">March 2021 - Present</h4>
 <div style="clear: both"></div>
-- Developed a risk-adjusted linear model in `R` to classify attendance rates of more than 50,000 schools.
+- Developed a risk-adjusted linear model in `Python` to classify more than 50,000 attendance rates.
   - Hosted the results on a company-wide instance of `Tableau Server`.
 - Consulted with SMEs to leverage data to prioritize and inform classroom instruction.
   - Facilitated semi-weekly discussions of student academic trends and relationships.
@@ -25,13 +26,13 @@ Analytics practitioner with experience solving problems using data and visualizi
 - Verified data integrity of more than 15 million records in the data warehouse using `Python`, `R`, and `SQL`.
 - Regularly analyzed and visualized complex testing results of 4 subjects at more than 50 schools using `ggplot2`.
 
-<h4 style="float: left">Optimization Consultant</h4> <h4 style="float: right; position: inline">May 2020 - March 2021</h4>
+<h4 class="work_title">Optimization Consultant <span class="work_company"> - Betting Hero</span></h4> <h4 class="work_dates">May 2020 - March 2021</h4>
 <div style="clear: both"></div>
 - Built a live dashboard in Google Sheets to track mission critical KPIs across 24 events in 4 states.
 - Automated a scheduling application using `Google Apps Script` to save 10 hrs of manual work per week.
 - Used the `Google Sheets API` and `Python` to streamline recruitment efforts of over 400 employees.
 
-<h4 style="float: left">Advanced Analytics Intern</h4> <h4 style="float: right; position: inline">May 2019 - May 2020</h4>
+<h4 class="work_title">Advanced Analytics Intern <span class="work_company"> - Steelcase</span></h4> <h4 class="work_dates">May 2019 - May 2020</h4>
 <div style="clear: both"></div>
 - Delivered data-driven hiring and relocation insights by modeling $60 million worth of incremental sales.
 - Investigated and presented share of wallet variability using `R Shiny` to inform strategic sales tactics.
@@ -66,4 +67,4 @@ Analytics practitioner with experience solving problems using data and visualizi
 
 <br>
 
-<sup>*</sup> This document was created entirely using R Markdown. Source code can be found on [`github`](https://github.com/ayoskovich/resume).
+<sup>*</sup> This document was created entirely using `R Markdown` and the source code can be found on [`github`](https://github.com/ayoskovich/resume).

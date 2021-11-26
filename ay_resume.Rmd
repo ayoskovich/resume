@@ -13,22 +13,26 @@ Analytics practitioner with experience solving problems using data and visualizi
 
 ## `r ico("file-alt")` Experience
 
-#### Data Analyst - Accountability (National Heritage Academies)
+<!-- Hackin my way downtown... -->
+<h4 style="float: left">Data Analyst (National Heritage Academies)</h4> <h4 style="float: right; position: inline">March 2021 - Present</h4>
+<div style="clear: both"></div>
 - Developed a risk-adjusted linear model in `R` to classify attendance rates of more than 50,000 schools.
   - Hosted the results on a company-wide instance of `Tableau Server`.
-- Consulted with SMEs to leverage data in order to prioritize and inform classroom instruction.
+- Consulted with SMEs to leverage data to prioritize and inform classroom instruction.
   - Facilitated semi-weekly discussions of student academic trends and relationships.
 - Automated the conversion of over 1,000 PDF files into a tabular format using the `Tesseract` OCR engine in `R`.
   - Saved more than 80 hours of manual work each year.
 - Verified data integrity of more than 15 million records in the data warehouse using `Python`, `R`, and `SQL`.
 - Regularly analyzed and visualized complex testing results of 4 subjects at more than 50 schools using `ggplot2`.
 
-#### Optimization Consultant (Betting Hero)
+<h4 style="float: left">Optimization Consultant</h4> <h4 style="float: right; position: inline">May 2020 - March 2021</h4>
+<div style="clear: both"></div>
 - Built a live dashboard in Google Sheets to track mission critical KPIs across 24 events in 4 states.
 - Automated a scheduling application using `Google Apps Script` to save 10 hrs of manual work per week.
 - Used the `Google Sheets API` and `Python` to streamline recruitment efforts of over 400 employees.
 
-#### Advanced Analytics Intern (Steelcase)
+<h4 style="float: left">Advanced Analytics Intern</h4> <h4 style="float: right; position: inline">May 2019 - May 2020</h4>
+<div style="clear: both"></div>
 - Delivered data-driven hiring and relocation insights by modeling $60 million worth of incremental sales.
 - Investigated and presented share of wallet variability using `R Shiny` to inform strategic sales tactics.
 - Worked on a cross-functional team to deploy a floor space optimization tool and recommender system.

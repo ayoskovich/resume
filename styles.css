@@ -1,7 +1,19 @@
-@media print
-{    
-    .no-print, .no-print *
-    {
-        display: none !important;
-    }
+.work_title {
+    float: left;
+}
+
+.work_company {
+    color: grey;
+    font-style: italic;
+}
+
+.work_dates {
+    float: right;
+    position: inline;
+}
+
+@media print {
+  a[href]:after {
+    content: none !important;
+  }
 }

@@ -1,7 +1,8 @@
 ---
 title: "Anthony Yoskovich"
-output: 
-  html_document: 
+output:
+  html_document:
+    css: styles.css
     theme: readable
 ---
 
@@ -39,6 +40,12 @@ Analytics practitioner with experience solving problems using data and visualizi
 - [`r ico("link")`](https://amisaving.herokuapp.com/myapp) Developed and deployed an interactive cost saving dashboard using `Python`, `Heroku`, and `Bokeh`.
 - [`r ico("link")`](https://anthonyyoskovich.com/project/internet-traffic/) Created a `Python` script to log my internet speed and analyzed 800,000 data-points with `pandas` and `seaborn`.
 - [`r ico("link")`](https://www.youtube.com/watch?v=KQN2H1IuiuM&t=2s) Built a Raspberry Pi data logger with `python` to archive the price of `Bitcoin` using the `Cryptowatch` API.
+
+<a href="google.com" class="no-print"> Here is a link. </a>
+
+<div class="no-print">
+    element that need to be hidden when printing
+</div>
 
 ****
 

@@ -57,7 +57,7 @@ Analytics practitioner with experience solving problems using data and visualizi
 - **`Python`**, `pandas`, `sklearn`, `seaborn`
 - `Tableau`, `Tableau Server`
 - `SQL`, `git`, `vim`, `cron`, `tmux`
-- `Azure DevOps`, `Asana`, `GitHub`
+- `Azure DevOps`, `Azure App Service`, `Docker`, `GitHub`
 - `Netlify`, `Heroku`, `shinyapps.io`
 
 ****
